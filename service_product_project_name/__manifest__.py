@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "service_product_project_name",
+    'name': "Product Name as Project",
 
     'summary': """
         Change the project name according to the service product""",
@@ -14,6 +14,7 @@
     'maintainer': "Loyal IT Solutions",
     'category': 'Point of Sale',
     'version': '16.0.1.0.0',
+    'license': 'LGPL-3',
     # any module necessary for this one to work correctly
     'depends': ['base','sale_project'],
 
